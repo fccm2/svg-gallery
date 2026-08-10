@@ -1,1 +1,1 @@
-a `.svg` galery,
+a `.svg` gallery,
